@@ -1,0 +1,21 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "chore/init-soroban-contracts",
+    "docs/backfill-changelog",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "chore/init-soroban-contracts": "master",
+    "docs/backfill-changelog": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "chore/init-soroban-contracts",
+    "docs/backfill-changelog",
+    "origin"
+  ]
+}
